@@ -1,0 +1,84 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+		body{background-image: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.9)),url("stone.jpg");
+		 
+		background-position: relative;
+		background-size: cover;
+			
+		
+}
+		#klaus{border-style:solid;
+			border-color:#968541;
+			background-clip: inherit;
+			background-origin: border-box;
+			background-color: #9EA045;
+			border-radius: 6px;
+			font-family:  Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+			 }
+		.border{border-style: solid;
+			border-radius: 6px;
+			background-color: darkgoldenrod;
+			border-color: darkgoldenrod;
+			padding: 20px;
+			font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+			}
+		
+		
+		footer{
+            width: 100%;
+            background:darkgoldenrod;
+			color: antiquewhite;
+			text-align: center;
+			font-size: 30px;
+			
+		     }
+
+.nav{
+	width: 1335px;
+	height: 300px;
+	background:#9EA045 ;
+	border-radius: 25px;
+	align-items: center;
+	justify-content: center;
+	border: 6px solid #968541 ;
+	display: flex;
+	
+}
+.nav:hover{
+	background:darkgoldenrod ;
+	
+}
+.metro{border-style:solid;
+			border-color:#968541;
+			background-clip: inherit;
+			background-origin: border-box;
+			background-color: #9EA045;
+			border-radius: 6px;
+			font-family:  Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+			 }
+.buy{
+	color: yellow;
+}
+.buy a{
+	text-decoration: none;
+	color: black;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+.buy:hover{
+	background:yellow;
+
+
+}
+
+	
+	
+
+
+
+
+	
+	

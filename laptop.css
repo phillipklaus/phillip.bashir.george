@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+#klaus{border-style:solid;
+			border-color:#968541;
+			background-clip: inherit;
+			background-origin: border-box;
+			background-color: #9EA045;
+			border-radius: 6px;
+			font-family:  Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+			 }
+.bold{
+	font-size: 6;
+	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+}
+		 
+.spec{border-style:solid;
+			border-color:#968541;
+			background-clip: inherit;
+			background-origin: border-box;
+			background-color: #9EA045;
+			border-radius: 6px;
+			font-family:  Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+#more{
+	width: 300px;
+	height: 50px;
+	background: gray;
+	border-radius: 25px;
+	align-items: center;
+	justify-content: center;
+	border: 2px solid white;
+	display: flex;
+	margin: auto;
+	
+	
+}
+#more a{
+	color: black;
+	font-size: 30px;
+	text-decoration: none;
+	padding: 0px 50px;
+	align-content: center;
+	font-family:"alegreya-sc";
+}
+#more:hover{
+	background:#9EA045 ;
+	box-shadow: 2px 5px #968541;
+}
+#more{
+	transition: 0.5s ease;
+}
+
+
+
